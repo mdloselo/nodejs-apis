@@ -1,0 +1,23 @@
+{
+  "name": "simpleapi",
+  "version": "1.0.0",
+  "description": "Simple API",
+  "main": "index.js",
+  "scripts": {
+    "test": "simpleapi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "simpleapi"
+  },
+  "keywords": [
+    "Simple",
+    "API"
+  ],
+  "author": "Mohau Loselo\\",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
